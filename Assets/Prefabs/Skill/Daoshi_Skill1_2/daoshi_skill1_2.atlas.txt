@@ -1,0 +1,111 @@
+
+daoshi_skill1_2.png
+size: 729,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shandian0001
+  rotate: true
+  xy: 642, 57
+  size: 8, 76
+  orig: 180, 220
+  offset: 89, 144
+  index: -1
+shandian0002
+  rotate: false
+  xy: 718, 124
+  size: 9, 137
+  orig: 180, 220
+  offset: 88, 83
+  index: -1
+shandian0003
+  rotate: true
+  xy: 438, 31
+  size: 101, 202
+  orig: 180, 220
+  offset: 41, 18
+  index: -1
+shandian0004
+  rotate: true
+  xy: 438, 134
+  size: 127, 208
+  orig: 180, 220
+  offset: 28, 12
+  index: -1
+shandian0005
+  rotate: true
+  xy: 222, 109
+  size: 152, 214
+  orig: 180, 220
+  offset: 15, 6
+  index: -1
+shandian0006
+  rotate: true
+  xy: 2, 86
+  size: 175, 218
+  orig: 180, 220
+  offset: 3, 2
+  index: -1
+shandian0007
+  rotate: true
+  xy: 222, 6
+  size: 101, 193
+  orig: 180, 220
+  offset: 40, 27
+  index: -1
+shandian0008
+  rotate: true
+  xy: 2, 2
+  size: 82, 189
+  orig: 180, 220
+  offset: 50, 31
+  index: -1
+shandian0009
+  rotate: false
+  xy: 648, 67
+  size: 68, 194
+  orig: 180, 220
+  offset: 46, 26
+  index: -1
+shandian0010
+  rotate: true
+  xy: 522, 8
+  size: 21, 185
+  orig: 180, 220
+  offset: 81, 35
+  index: -1
+shandian0011
+  rotate: true
+  xy: 522, 8
+  size: 21, 185
+  orig: 180, 220
+  offset: 81, 35
+  index: -1
+shandian0012
+  rotate: true
+  xy: 417, 6
+  size: 23, 103
+  orig: 180, 220
+  offset: 80, 38
+  index: -1
+shandian0013
+  rotate: true
+  xy: 417, 6
+  size: 23, 103
+  orig: 180, 220
+  offset: 80, 38
+  index: -1
+shandian0014
+  rotate: true
+  xy: 417, 92
+  size: 15, 11
+  orig: 180, 220
+  offset: 81, 37
+  index: -1
+shandian0015
+  rotate: true
+  xy: 417, 92
+  size: 15, 11
+  orig: 180, 220
+  offset: 81, 37
+  index: -1

@@ -1,0 +1,55 @@
+
+zhouyu_skill4_2.png
+size: 254,201
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cangji/feng0001
+  rotate: false
+  xy: 202, 111
+  size: 35, 30
+  orig: 104, 104
+  offset: 35, 15
+  index: -1
+cangji/feng0002
+  rotate: true
+  xy: 202, 143
+  size: 56, 48
+  orig: 104, 104
+  offset: 22, 8
+  index: -1
+cangji/feng0003
+  rotate: false
+  xy: 189, 33
+  size: 63, 65
+  orig: 104, 104
+  offset: 20, 3
+  index: -1
+cangji/feng0004
+  rotate: true
+  xy: 2, 2
+  size: 97, 94
+  orig: 104, 104
+  offset: 3, 2
+  index: -1
+cangji/feng0005
+  rotate: true
+  xy: 2, 101
+  size: 98, 100
+  orig: 104, 104
+  offset: 2, 2
+  index: -1
+cangji/feng0006
+  rotate: true
+  xy: 98, 10
+  size: 88, 89
+  orig: 104, 104
+  offset: 5, 4
+  index: -1
+cangji/feng0007
+  rotate: false
+  xy: 104, 100
+  size: 96, 99
+  orig: 104, 104
+  offset: 8, 1
+  index: -1

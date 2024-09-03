@@ -1,0 +1,111 @@
+
+zhugeliang_skill1_5.png
+size: 315,551
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha0001
+  rotate: false
+  xy: 230, 133
+  size: 77, 75
+  orig: 120, 118
+  offset: 20, 27
+  index: -1
+baozha0002
+  rotate: false
+  xy: 230, 210
+  size: 83, 89
+  orig: 120, 118
+  offset: 17, 21
+  index: -1
+baozha0003
+  rotate: true
+  xy: 109, 7
+  size: 91, 98
+  orig: 120, 118
+  offset: 17, 14
+  index: -1
+baozha0004
+  rotate: true
+  xy: 2, 107
+  size: 101, 108
+  orig: 120, 118
+  offset: 10, 8
+  index: -1
+fazhen03
+  rotate: false
+  xy: 2, 317
+  size: 169, 92
+  orig: 180, 100
+  offset: 5, 4
+  index: -1
+guangbo
+  rotate: true
+  xy: 187, 411
+  size: 138, 125
+  orig: 140, 133
+  offset: 2, 5
+  index: -1
+z_bao0001
+  rotate: false
+  xy: 220, 73
+  size: 92, 58
+  orig: 120, 122
+  offset: 9, 1
+  index: -1
+z_bao0002
+  rotate: false
+  xy: 117, 198
+  size: 111, 101
+  orig: 120, 122
+  offset: 4, 5
+  index: -1
+z_bao0003
+  rotate: false
+  xy: 2, 210
+  size: 113, 105
+  orig: 120, 122
+  offset: 2, 14
+  index: -1
+z_bao0004
+  rotate: false
+  xy: 173, 301
+  size: 113, 108
+  orig: 120, 122
+  offset: 3, 13
+  index: -1
+z_bao0005
+  rotate: true
+  xy: 112, 100
+  size: 96, 106
+  orig: 120, 122
+  offset: 12, 15
+  index: -1
+z_bao0006
+  rotate: true
+  xy: 2, 19
+  size: 86, 105
+  orig: 120, 122
+  offset: 18, 15
+  index: -1
+z_bao0007
+  rotate: true
+  xy: 209, 2
+  size: 69, 94
+  orig: 120, 122
+  offset: 20, 26
+  index: -1
+z_fazhen01
+  rotate: false
+  xy: 2, 411
+  size: 170, 64
+  orig: 180, 68
+  offset: 5, 2
+  index: -1
+z_fazhen02
+  rotate: false
+  xy: 2, 477
+  size: 183, 72
+  orig: 200, 76
+  offset: 7, 3
+  index: -1
